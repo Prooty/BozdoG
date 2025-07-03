@@ -1,0 +1,11 @@
+name = "lzma-0.0.1.jar"
+filename = "lzma-0.0.1.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/Prooty/BozdoG/refs/heads/main/bozdo-packwiz/lzma-0.0.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0c3085cb93c3ef95d731c274b6f2dd195aa0405fe9328d69cab7f5e899d5e124"

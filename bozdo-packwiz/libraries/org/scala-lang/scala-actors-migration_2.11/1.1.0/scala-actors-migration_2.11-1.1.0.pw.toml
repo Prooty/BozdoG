@@ -1,0 +1,11 @@
+name = "scala-actors-migration_2.11-1.1.0.jar"
+filename = "scala-actors-migration_2.11-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/Prooty/BozdoG/refs/heads/main/bozdo-packwiz/scala-actors-migration_2.11-1.1.0.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b89d0beb76df20c7b2c2bee59ba53b802cc48566bc3e89ac96ce6361c5c2ee38"

@@ -1,0 +1,11 @@
+name = "scala-library-2.11.1.jar"
+filename = "scala-library-2.11.1.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/Prooty/BozdoG/refs/heads/main/bozdo-packwiz/scala-library-2.11.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "088bcb80f71b6e6a2a31d2fe7288c1fd64f19663ce281b924cdfab3fb105f4f3"

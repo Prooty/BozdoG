@@ -1,0 +1,11 @@
+name = "config-1.2.1.jar"
+filename = "config-1.2.1.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/Prooty/BozdoG/refs/heads/main/bozdo-packwiz/config-1.2.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c160fbd78f51a0c2375a794e435ce2112524a6871f64d0331895e9e26ee8b9ee"

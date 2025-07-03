@@ -1,0 +1,11 @@
+name = "scala-compiler-2.11.1.jar"
+filename = "scala-compiler-2.11.1.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/Prooty/BozdoG/refs/heads/main/bozdo-packwiz/scala-compiler-2.11.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3aa616f5c56d2052fc5e3231f3e8cf1736f876caff0142a66096fc5b4dc87ae5"

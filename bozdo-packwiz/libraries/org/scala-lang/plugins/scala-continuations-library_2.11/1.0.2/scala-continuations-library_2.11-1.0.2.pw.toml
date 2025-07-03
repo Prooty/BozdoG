@@ -1,0 +1,11 @@
+name = "scala-continuations-library_2.11-1.0.2.jar"
+filename = "scala-continuations-library_2.11-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/Prooty/BozdoG/refs/heads/main/bozdo-packwiz/scala-continuations-library_2.11-1.0.2.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8dd0a4941f4564117cc991734ca36aa53dff6bb0be329f39eab46d8819f60d1a"

@@ -1,0 +1,11 @@
+name = "scala-parser-combinators_2.11-1.0.1.jar"
+filename = "scala-parser-combinators_2.11-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/Prooty/BozdoG/refs/heads/main/bozdo-packwiz/scala-parser-combinators_2.11-1.0.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "19495ce701fd9ba3c499c137e3ad5364acee8f87a01ef99e912f995a23fd4cb1"

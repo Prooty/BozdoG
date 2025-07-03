@@ -1,0 +1,11 @@
+name = "eula.txt"
+filename = "eula.txt"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/Prooty/BozdoG/refs/heads/main/bozdo-packwiz/eula.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0a7d463c447820e560516ec8975d4c9859b224f0ad804bf884bb4bff3ef11ede"

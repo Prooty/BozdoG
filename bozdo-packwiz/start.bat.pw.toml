@@ -1,0 +1,11 @@
+name = "start.bat"
+filename = "start.bat"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/Prooty/BozdoG/refs/heads/main/bozdo-packwiz/start.bat"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6772a8ba0b35fd6d1b4ab39223b6f8a22ea39f3a195bee211eb4d16ec6d7a1a0"

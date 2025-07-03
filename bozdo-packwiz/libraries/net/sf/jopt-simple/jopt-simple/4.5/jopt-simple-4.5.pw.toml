@@ -1,0 +1,11 @@
+name = "jopt-simple-4.5.jar"
+filename = "jopt-simple-4.5.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/Prooty/BozdoG/refs/heads/main/bozdo-packwiz/jopt-simple-4.5.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "64335a48be6b142a7d0c13ec5c82a707857aa58c0234e6eda3eaca0e96eea51b"

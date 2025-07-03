@@ -1,0 +1,11 @@
+name = "scala-xml_2.11-1.0.2.jar"
+filename = "scala-xml_2.11-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/Prooty/BozdoG/refs/heads/main/bozdo-packwiz/scala-xml_2.11-1.0.2.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6c3338a4062c13dc2ce61630d9854d361a81656a4050e5080302f500dd4a8832"
