@@ -1,0 +1,2 @@
+java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/Prooty/BozdoG/refs/heads/main/bozdo-packwiz/pack.toml
+"E:\Prism\java\eclipse_temurin_jre8.0.452+9\bin\java.exe" -Xmx1G -Xms1G -jar forge-1.7.10-10.13.4.1614-1.7.10-universal.jar nogui
