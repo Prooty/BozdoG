@@ -1,0 +1,16 @@
+name = "bozdo-packwiz"
+author = "Prooty"
+version = "7.7.7"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3187d80426ab53f20750bd76e85287495bab566c9563c25daec183c55bbd4717"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"
+
+[options]
+acceptable-game-versions = []
